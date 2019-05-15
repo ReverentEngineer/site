@@ -1,0 +1,41 @@
+baseurl = "https://www.reverentengineer.com"
+title = "reverent engineer"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+    author = "Jeff Hill"
+    info = "Software Engineer"
+    description = "Jeff Hill's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/avatar.png"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+[[menu.main]]
+    name = "Portfolio"
+    weight = 2
+    url = "/portfolio/"
+
+[[menu.main]]
+    name = "Github"
+    weight = 3
+    url = "https://github.com/ReverentEngineer"
