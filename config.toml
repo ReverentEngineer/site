@@ -39,8 +39,3 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     weight = 3
     url = "https://github.com/ReverentEngineer"
-
-[[menu.main]]
-    name = "Login"
-    weight = 4
-    url = "https://reverentengineer.com/login"
