@@ -5,6 +5,7 @@ draft: false
 ---
 
 + [git-code-review](/git-code-review) - A python module for performing code reviews inside git history
++ [minimalist-map](/minimalist-map) - A simple, minimalist map implementation in C
 + [cron-build](https://github.com/ReverentEngineer/cron-build) - A perl script to support cron-based build automation of git repositories
 + [digitalocean-ansible-inventory](https://github.com/ReverentEngineer/digitalocean-ansible-inventory) - An Ansible dynamic inventory for DigitalOcean droplets
 + [perl-DKIM-Sign](https://github.com/ReverentEngineer/perl-DKIM-Sign) - A mail signing CLI tool useful for Postfix
