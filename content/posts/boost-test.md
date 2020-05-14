@@ -21,7 +21,7 @@ free and open source.
 # How Do I Set It Up?
 
 In the simple case, it's as easy as installing the Boost development headers
-from your package manages (e.g. `yum install boost-devel`) and then the headers
+from your package manager (e.g. `yum install boost-devel`) and then the headers
 should be accessible in the default system paths. If you don't have admin
 privileges, then you might have to do some more work including installng
 to your home directory.
