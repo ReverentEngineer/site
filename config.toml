@@ -15,8 +15,8 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Jeff Caffrey-Hill"
     info = "Software Engineer"
-    description = "Jeff Caffrey-Hill's personal website"
-    keywords = "blog,developer,personal"
+    description = "Jeff Caffrey-Hill: Software Engineer, blog and portfolio"
+    keywords = "blog,developer,personal,portfolio"
     avatarurl = "images/avatar.png"
 
     favicon_32 = "/img/favicon-32x32.png"
@@ -39,13 +39,3 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     weight = 3
     url = "https://github.com/ReverentEngineer"
-
-[[menu.main]]
-  name = "DockerHub"
-  weight = 4
-  url = "https://hub.docker.com/u/reverentengineer"
-
-[[menu.main]]
-  name = "PyPi"
-  weight = 5
-  url = "https://pypi.org/user/ReverentEngineer/"
