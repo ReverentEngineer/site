@@ -4,6 +4,8 @@ date: 2019-05-14T19:37:23-04:00
 draft: false
 ---
 
++ [rdg](/rdg) - A library and application for generating data using regular expressions
+* [ber](/ber) - A library for parsinf Basic Encoding Rules (BER) encoded data
 + [git-code-review](/git-code-review) - A python module for performing code reviews inside git history
 + [minimalist-map](/minimalist-map) - A simple, minimalist map implementation in C
 + [cron-build](https://github.com/ReverentEngineer/cron-build) - A perl script to support cron-based build automation of git repositories
