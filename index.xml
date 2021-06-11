@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reverent engineer</title>
+    <link>https://reverentengineer.com/</link>
+    <description>Recent content on reverent engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 May 2019 19:37:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://reverentengineer.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing with Boost.Test</title>
+      <link>https://reverentengineer.com/posts/boost-test/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reverentengineer.com/posts/boost-test/</guid>
+      <description>What Is It? Boost.Test is a C++ header-only library for easily creating unit tests and providing developers with some of the common testing components. It&amp;rsquo;s part of the Boost collection of libraries that are free and open source.
+How Do I Set It Up? In the simple case, it&amp;rsquo;s as easy as installing the Boost development headers from your package manager (e.g. yum install boost-devel) and then the headers should be accessible in the default system paths.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://reverentengineer.com/portfolio/</link>
+      <pubDate>Tue, 14 May 2019 19:37:23 -0400</pubDate>
+      
+      <guid>https://reverentengineer.com/portfolio/</guid>
+      <description>rdg - A library and application for generating data using regular expressions ber - A library for parsing Basic Encoding Rules (BER) encoded data git-code-review - A python module for performing code reviews inside git history minimalist-map - A simple, minimalist map implementation in C cron-build - A perl script to support cron-based build automation of git repositories digitalocean-ansible-inventory - An Ansible dynamic inventory for DigitalOcean droplets perl-DKIM-Sign - A mail signing CLI tool useful for Postfix event-photo-gallery - A collaborative, micro photo gallery build-dashboard - A text-based app for interfacing with Buildbot clang_complete-cmake.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c&#43;&#43; on reverent engineer</title>
+    <link>https://reverentengineer.com/tags/c&#43;&#43;/</link>
+    <description>Recent content in c&#43;&#43; on reverent engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://reverentengineer.com/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing with Boost.Test</title>
+      <link>https://reverentengineer.com/posts/boost-test/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reverentengineer.com/posts/boost-test/</guid>
+      <description>What Is It? Boost.Test is a C++ header-only library for easily creating unit tests and providing developers with some of the common testing components. It&amp;rsquo;s part of the Boost collection of libraries that are free and open source.
+How Do I Set It Up? In the simple case, it&amp;rsquo;s as easy as installing the Boost development headers from your package manager (e.g. yum install boost-devel) and then the headers should be accessible in the default system paths.</description>
+    </item>
+    
+  </channel>
+</rss>
